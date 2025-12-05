@@ -1,0 +1,31 @@
+body {
+  font-family: Inter, Roboto, system-ui, -apple-system, 'Segoe UI', Arial;
+  background: #f7fbff;
+  color: #0f1724;
+}
+
+.navbar {
+  background: #0b63b6;
+  color: #fff;
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 0 6px 20px rgba(11, 99, 182, 0.08);
+}
+
+th {
+  background: #e6f0fb;
+}
+
+footer {
+  font-size: 13px;
+  color: #6b7280;
+  margin-top: 12px;
+  text-align: center;
+}
+
+.small-input {
+  padding: 6px 8px;
+  font-size: 13px;
+}
